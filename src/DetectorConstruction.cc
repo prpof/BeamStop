@@ -63,7 +63,7 @@ DetectorConstruction::DetectorConstruction()
   //G4double PolyThick = 0.1*mm;	// no poly...
   //G4double LeadThick = 0.1*mm;	// no lead...
   G4double PolyThick = 10.0*cm;
-  G4double LeadThick =  2.5*cm;
+  G4double LeadThick =  5.0*cm;
 
 /**************************************************************************************/
 
